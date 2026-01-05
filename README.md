@@ -7,13 +7,15 @@ Clone the repository or download the code as a zip file and extract it to a fold
 
 Navigate to the project directory in your terminal:
 
-cd /Downloads/Discord-Auto-message/
+cd Discord-Auto-message
 (Optional) Customize the message content by editing messages.txt, adding messages on separate lines. By default, random messages are provided.
 
 Usage
 Execute the script using the following command:
 
 python auto.py
+
+
 During execution, you'll be prompted to specify the duration in seconds between each message and the sleep interval after each cycle.
 
 Options
